@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Soy un Sysadmin intentando evolucionar a un Devops.
 
-### More Information
+### Acerca del blog
 
-A place to include any other types of information that you'd like to include about yourself.
+Este blog se ha creado con el objetivo de poner mi cabeza en orden.
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:fjxgraciano@gmail.com)
