@@ -8,8 +8,8 @@ Soy un Sysadmin intentando evolucionar a un Devops.
 
 ### Acerca del blog
 
-Este blog se ha creado con el objetivo de poner mi cabeza en orden.
+Este blog se ha creado con el objetivo de tener en orden mi cabeza.
 
 ### Contacto
 
-[email@domain.com](mailto:fjxgraciano@gmail.com)
+[fjxgraciano@gmail.com](mailto:fjxgraciano@gmail.com)
