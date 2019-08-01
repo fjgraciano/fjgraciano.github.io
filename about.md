@@ -12,4 +12,4 @@ Este blog se ha creado con el objetivo de tener en orden mi cabeza.
 
 ### Contacto
 
-[fjxgraciano@gmail.com](mailto:fjxgraciano@gmail.com)
+[mailto](mailto:fjxgraciano@gmail.com)
